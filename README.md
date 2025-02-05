@@ -11,3 +11,5 @@ perimetro = 2 * (base + altura);
 
 fprintf('El área del rectángulo es: %.2f\n', area);
 fprintf('El perímetro del rectángulo es: %.2f\n', perimetro);
+
+
